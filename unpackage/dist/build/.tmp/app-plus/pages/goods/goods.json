@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "商品",
+  "titleNView": false,
+  "bounce": "none",
+  "usingComponents": {
+    "status-ios": "/components/status",
+    "handle-header": "/pages/goods/goodsHeader",
+    "popup-spec": "/components/popupSpec"
+  }
+}

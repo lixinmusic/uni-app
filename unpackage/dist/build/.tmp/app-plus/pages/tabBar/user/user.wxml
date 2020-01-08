@@ -1,0 +1,1 @@
+<view><view class="user"><view class="left"><image src="{{user.face}}"></image></view><view class="right"><view class="username">{{user.username}}</view></view><view data-event-opts="{{[['tap',[['handleQRCode',['$event']]]]]}}" class="erweima" bindtap="__e"><view class="icon iconfont"></view></view></view></view>
